@@ -54,10 +54,10 @@ https://github.com/Aiinne
 *❉ Papah-Chan:*
 https://github.com/FahriAdison
 *▸ - - - —「 Penulis Ulang 」— - - - ◂*
-*❉ ImYanXiao:*
+*❉ BochilGaming:*
 https://github.com/ImYanXiao
 *▸ - - - —「 Thanks For Suhu 」— - - - ◂*
-*❉ WH MODS DEV:*
+*❉ Zkhii!:*
 *❉ Kannachan:*
 *❉ Papah-Chan:*
 *❉ Johannes:*
