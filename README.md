@@ -13,7 +13,7 @@
   <a href="httts://instagram.com/zkyze_1"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
   <h4 align="center">
   <a
-  <a href="https://wa.me/6285817964523">Klik disini untuk whatsapp OWNER </a>
+  <a href="https://wa.me/6285817964582">Klik disini untuk whatsapp OWNER </a>
 </h4>
 </p>
 
