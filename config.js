@@ -37,19 +37,19 @@ global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/UCF5pi-9us5XT51gg0zhIrhg' // my youtube channel
 
 /*============== PAYMENT ==============*/
-global.pdana = '083188229366' //dana
-global.povo = '083188229366' //ovo
-global.pgopay = '083188229366' //gopay
-global.plinkaja = '083188229366' //link aja
-global.ppulsa = '083188229366' //telkomsel
-global.ppulsa2 = '085817964582' // kalau ada kartu lain isi aja
+global.pdana = '085738639969' //dana
+global.povo = '085738639969' //ovo
+global.pgopay = '085738639969' //gopay
+global.plinkaja = '-' //link aja
+global.ppulsa = '-' //telkomsel
+global.ppulsa2 = '085738639969' // kalau ada kartu lain isi aja
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283188229366'
-global.nomorown = '6285817964582'
-global.namebot = 'Azhil botz'
-global.nameown = 'Zkhii!'
+global.nomorbot = '+6281393731802'
+global.nomorown = '6282250712553'
+global.namebot = Chonix-Vamses'
+global.nameown = 'Dimz?'
 
 /*============== APIKEY SIMPEL ==============*/
 global.zenzkey = 'b8040941f7'
@@ -58,10 +58,9 @@ global.lolkey = '8e66d0934cf741bfd2182c16' // PUNYA WAHID 357d3c85079c4e0818731e
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127487380', '?', true],
-  ['6282159570810', '?', true],
-  ['6288298925860', '?', true],
-  ['6285817964582', 'Zkhii', true] //Ganti jd nomormu sama Namamu
+  ['6285738639969', '?', true],
+  ['6282250712553', '?', true],
+  ['6282250712553', 'Dimz?', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -189,8 +188,8 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'ZhillBotz'
-global.stickauth = `By @zakky`
+global.stickpack = 'Vamses'
+global.stickauth = `By @Chonix`
 
 global.multiplier = 38 // The higher, The harder levelup
 
